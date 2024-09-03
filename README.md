@@ -1,0 +1,1 @@
+# AndroidStudio_03.09.2024
